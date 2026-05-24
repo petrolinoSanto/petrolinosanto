@@ -1,4 +1,4 @@
-# Hi, I’m Petrolino Grave do Espírito Santo
+# Hi
 
 I am a Cybersecurity and Machine Learning researcher with interests in intrusion detection, email security, phishing detection, digital forensics, and AI-generated media detection.
 
